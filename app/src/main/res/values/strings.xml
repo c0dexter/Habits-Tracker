@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="db_saving_error_log_msg">Error with saving operation. Value of newRowId:</string>
+    <string name="db_saving_error_toast_msg">Error with saving habit</string>
+    <string name="db_success_saving_toast_msng">Habit has been saved with ID:</string>
+    <string name="db_saving_success_log_msng">Saving habit successfully! New row ID:</string>
+    <string name="db_rows_amount_log_msng">Number of rows in habits database table:</string>
+    <string name="dummy_data_activity_name">Programming</string>
+</resources>
